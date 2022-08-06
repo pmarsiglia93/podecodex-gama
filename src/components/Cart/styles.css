@@ -1,0 +1,15 @@
+.container-cart{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.cart-pokemon{
+    border: 1px solid black;
+    height: 200px;
+}
+
+.card-pokemon{
+    border: solid;
+}

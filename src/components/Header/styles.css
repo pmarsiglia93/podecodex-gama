@@ -1,0 +1,23 @@
+.logo-pokemon {
+    width: 160px;
+    @media(min-width:768px) {
+      box-sizing: border-box;
+      padding-left: 20px;
+    }
+  }
+
+  .logo-minicart{
+    width: 40px;
+  }
+
+  .container-header{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    position: relative;
+  }
+
+  .header-content-logo{
+    display: flex;
+    align-items: center;
+  }
